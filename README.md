@@ -6,11 +6,11 @@ Reduced-Order model for dynamics of slender archs subject to cyclic loads.
 - [Installation](#installation)
 - [Theory](#theory)
 - [Usage](#usage)
-  - [Extracting POD basis from high-fidelity simulations.](#extracting basis)
-  - [Using POD basis](#using pod basis)
-- [Highlights]
-- [Examples]
-- [Acknoledgments]
+  - [Extracting POD basis from high-fidelity simulations.](#extracting-basis)
+  - [Using POD basis](#using-pod-basis)
+- [Highlights](#highlights)
+- [Examples](#examples)
+- [Acknoledgments](#acknoledgments)
 
 # Installation
 <sup>[(Back to top)](#table-of-contents)</sup>
@@ -30,7 +30,7 @@ Interactive launch
 
 Passing txt files
 
-## Extracting Basis
+## Extracting basis
 <sup>[(Back to top)](#table-of-contents)</sup>
 
 Show example
@@ -57,7 +57,7 @@ Probabilistic snap-through boundary.
 <!-- ![Snap](probability%20of%20snap.png) -->
 <img src="probability%20of%20snap.png" width="270" height="200"/>
 
-# Acknolegments
+# Acknoledgments
 
 add acknoledgment
 
