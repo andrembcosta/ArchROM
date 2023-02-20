@@ -74,7 +74,7 @@ Probabilistic snap-through boundary of a circular arch. The x axis represents th
 
 I am extremely grateful to professor Ilinca Stanciulescu, who supervised this work during the Summer of 2016 and introduced me to the world of Computational Mechanics. She was also responsible for writing the recommendation letters that got me a chance to attend Graduate School at Duke, for which I am even more grateful. 
 
-She passed away in 2021 and I hope this repository serve to remember how important she was for my journey through in this field.
+She passed away in 2021 and I hope this repository serve to remember how important she was for my journey in this field and my career as a whole.
 
 https://www.dignitymemorial.com/obituaries/tumwater-wa/ilinca-stanciulescu-panea-10081541
 
