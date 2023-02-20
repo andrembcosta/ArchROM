@@ -9,7 +9,7 @@ Reduced-Order model for dynamics of slender archs subject to cyclic loads.
   - [Extracting POD basis from high-fidelity simulations.](#extracting-basis)
   - [Using POD basis](#using-pod-basis)
 - [Highlights](#highlights)
-- [Examples](#examples)
+- [Applications](#applications)
 - [Acknoledgments](#acknoledgments)
 
 # Installation
